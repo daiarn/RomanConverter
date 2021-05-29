@@ -9,12 +9,12 @@ README = (HERE / "README.md").read_text()
 
 # This call to setup() does all the work
 setup(
-    name="roman-converter",
+    name="roman-number-converter",
     version="1.0.0",
     description="Component for converting Roman numbers to arabic and vice versa.",
     long_description=README,
     long_description_content_type="text/markdown",
-    url="https://github.com/realpython/reader",
+    url="https://github.com/daiarn/RomanConverter",
     author="Dainius Arnastauskas",
     author_email="dainius1997@gmail.com",
     license="MIT",
