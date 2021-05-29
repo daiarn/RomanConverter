@@ -1,6 +1,6 @@
 import pytest
 
-from main import RomanConverter
+from component.main import RomanConverter
 
 
 @pytest.fixture
